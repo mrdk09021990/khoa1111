@@ -1,5 +1,8 @@
 
 module.exports = {
-    prefixAdmin: 'adminCCC',
-    format_long_time: 'hh:mm -DD-MM-YYYY',
+    prefixAdmin: 'admin123',    // hdsdnsk
+    prefixBlog: '',
+    env: 'production', // production dev
+    format_long_time: 'DD-MM-YYYY',
+    format_time_frontend: 'DD-MM-YYYY'
 };

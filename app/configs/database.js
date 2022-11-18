@@ -4,10 +4,10 @@ module.exports = {
     password: 'hello',
     database: 'hello',
     col_items: 'items',
-    col_sliders: 'sliders',
-    col_khoa: 'khoa',
     col_groups: 'groups',
     col_users: 'users',
-    col_category: 'category',
+    col_category: 'categories',
+    col_article: 'article',
+    col_khoa: 'khoa', 
 };
 

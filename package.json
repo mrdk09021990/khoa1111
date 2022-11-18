@@ -6,6 +6,7 @@
     "start": "nodemon ./bin/www"
   },
   "dependencies": {
+    "connect-flash": "^0.1.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
@@ -16,11 +17,15 @@
     "express-session": "^1.15.6",
     "express-validator": "^5.2.0",
     "http-errors": "~1.6.2",
+    "layout": "^2.2.0",
+    "md5": "^2.3.0",
     "moment": "^2.29.4",
     "mongoose": "^5.1.1",
     "morgan": "~1.9.0",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.6",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
     "randomstring": "^1.2.2"
   }
 }
